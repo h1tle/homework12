@@ -121,9 +121,7 @@ svg {
 .element {
   width: 400px;
   height: 300px;
-}
 
-.element {
   -webkit-animation: move 5s infinite alternate;
           animation: move 5s infinite alternate;
 }

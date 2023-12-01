@@ -1,0 +1,36 @@
+@use "null";
+svg {
+  display: block;
+  margin: 0 auto;
+  stroke-width: 5px;
+}
+.square {
+  width: 200px;
+  height: 200px;
+  fill: red;
+  stroke: green;
+}
+.rectangle {
+  fill: black;
+  stroke: purple;
+  width: 300px;
+  height: 200px;
+}
+.circle {
+  width: 200px;
+  height: 200px;
+  fill: aqua;
+  stroke: black;
+}
+.ellipse {
+  fill: #18b5a4;
+  stroke: #5e5373;
+  width: 300px;
+  height: 200px;
+}
+.element {
+  width: 400px;
+  height: 300px;
+  fill: yellow;
+  stroke: gray;
+}
